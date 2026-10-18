@@ -10,6 +10,16 @@ I'm an MSc Data Analytics student with hands-on experience in data engineering, 
 - 🎓 MSc Data Analytics — Berlin School of Business and Innovation
 - 🌍 Based in Germany | Open to relocation
 
+## 🚧 Current Focus — Projects in Progress
+
+I'm actively developing and improving my GitHub portfolio projects. Current work includes reviewing setup instructions, improving documentation, adding lightweight CI checks, and validating application behaviour.
+
+- **Personal LLM Chatbot:** refining the RAG + memory prototype, setup workflow, and evaluation scaffold.
+- **Hybrid Chatbot System:** reviewing the chatbot interface, NLP dependencies, and rule-based / semantic / LLM response paths.
+- **Next steps:** complete end-to-end local testing, document known limitations, and add screenshots captured from the running applications.
+
+> These are ongoing portfolio prototypes; end-to-end runtime validation and production readiness are not yet claimed.
+
 ## 🛠️ Technical Skills
 
 **Programming & Analytics**
@@ -34,13 +44,17 @@ I'm an MSc Data Analytics student with hands-on experience in data engineering, 
 
 ### 1. Personal LLM Chatbot — RAG & Memory
 
-A Python chatbot project combining retrieval-augmented generation, vector search, embeddings, conversation memory, and a web interface.
+**Status: In progress**
+
+A Python chatbot prototype combining retrieval-augmented generation, vector search, embeddings, conversation memory, and a web interface.
 
 **Technologies:** Python, FAISS, FastAPI, Streamlit, OpenAI API, SQLite, Docker
 
 [View Repository →](https://github.com/utsavsavani2808/personal-llm-chatbot)
 
 ### 2. Hybrid Chatbot System
+
+**Status: In progress**
 
 A chatbot prototype combining rule-based responses, semantic retrieval, sentiment analysis, multilingual responses, and LLM integration.
 
@@ -88,4 +102,4 @@ Veer Narmad South Gujarat University, India
 
 ---
 
-*Turning data into insights and ideas into practical solutions.*
+*Turning data into insights and ideas into practical solutions — one project at a time.*
