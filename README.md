@@ -1,43 +1,91 @@
-# Hi, I'm Utsav Savani
+# Hi, I'm Utsav Savani 👋
 
-### Data Analyst | Data Engineer | Business Intelligence
+### Data Analyst | Data Engineer | AI/ML Enthusiast
 
-MSc Data Analytics student with hands-on experience in data analysis, ETL pipelines, data quality, KPI reporting, and Power BI dashboards. I work with SQL, Python, PySpark, Azure Data Factory, and Azure Databricks to turn multi-source data into reliable reporting datasets and actionable business insights.
+I'm an MSc Data Analytics student with hands-on experience in data engineering, business intelligence, ETL automation, and KPI analytics. I enjoy transforming complex, multi-source data into reliable datasets, actionable business insights, and interactive dashboards.
 
-## Core Skills
+- 📊 Building interactive Power BI dashboards and KPI reporting solutions
+- ⚙️ Developing ETL pipelines and automating data quality checks
+- 🤖 Exploring LLM applications, retrieval-augmented generation (RAG), and AI-powered chatbots
+- 🎓 MSc Data Analytics — Berlin School of Business and Innovation
+- 🌍 Based in Germany | Open to relocation
 
-- **Data Analysis & Visualization:** SQL, Python (Pandas, NumPy, SciPy), Excel (VBA), Power BI, DAX, Power Query, Tableau, Qlik Sense
-- **Data Engineering & Automation:** ETL/data pipelines, data warehousing, PySpark, Azure Data Factory, Azure Databricks, Azure DevOps, Jira, Power Automate, Power Apps
-- **Data Collection:** Selenium, Playwright
-- **AI Tools:** Using LLMs to draft and debug SQL, write and refactor Python, and summarize analysis and KPI documentation
+## 🛠️ Technical Skills
 
-## Experience Highlights
+**Programming & Analytics**
+- Python, SQL, Pandas, NumPy, SciPy
+- Excel, VBA, statistical analysis
 
-- **Smatched — Data Analyst Intern:** Analysed approximately 20K user records for churn and retention, identified at-risk segments, and built Power BI dashboards for churn, retention, and finance KPIs.
-- **Infinityve — Data Engineer Intern:** Built SQL/PySpark ETL pipelines with Azure Data Factory and Databricks, consolidating 1M-row source tables from three systems into a reporting warehouse. Automated data validation and monitoring checks.
-- **NopCypher — Data Analyst Intern:** Built SQL and Python reporting pipelines, delivered eight KPIs from approximately 20K monthly transaction rows, automated recurring reports, and tuned slow SQL queries.
+**Business Intelligence**
+- Power BI, DAX, Power Query
+- Tableau, Qlik Sense, KPI dashboard design
 
-## Selected Achievements
+**Data Engineering**
+- ETL pipelines, data modelling, data warehousing
+- PySpark, Azure Data Factory, Azure Databricks
+- Power Automate, Selenium, Playwright
 
-- Reduced data verification time by approximately **10 hours per month** through automated data validation and monitoring.
-- Replaced approximately **3 hours per week** of manual reporting with Power BI dashboards at Infinityve.
-- Automated four recurring reports and dashboards, saving approximately **6 hours per month** at NopCypher.
-- Built KPI reporting and reusable DAX-based data models to support cross-functional teams.
+**AI & Application Development**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Python-based chatbot development
 
-## Education
+## 🚀 Featured Projects
 
-- **MSc Data Analytics** — Berlin School of Business and Innovation, Berlin, Germany (04/2024 – Present)
-- **Bachelor of Business Administration** — Veer Narmad South Gujarat University, Surat, India (06/2017 – 10/2020)
+### 1. Personal LLM Chatbot — RAG & Memory
 
-## Certifications
+A Python chatbot project combining retrieval-augmented generation, vector search, embeddings, conversation memory, and a web interface.
 
-Python for Data Analysis · SQL for Business Analysis · Data Analytics Essentials with Power BI · Anti-Money Laundering (AML)
+**Technologies:** Python, FAISS, FastAPI, Streamlit, OpenAI API, SQLite, Docker
 
-## Connect
+[View Repository →](https://github.com/utsavsavani2808/personal-llm-chatbot)
 
-- **LinkedIn:** [Utsav Savani](https://linkedin.com/in/utsav-savani-b03997388)
-- **Email:** utsavsavani999@gmail.com
+### 2. Hybrid Chatbot System
+
+A chatbot prototype combining rule-based responses, semantic retrieval, sentiment analysis, multilingual responses, and LLM integration.
+
+**Technologies:** Python, Streamlit, NLP, semantic retrieval, LLMs
+
+[View Repository →](https://github.com/utsavsavani2808/hybrid-chatbot)
+
+### 3. Business Intelligence & KPI Dashboard
+
+An academic project focused on building an interactive sales analytics dashboard with a SQL and Power Query data model, DAX measures, and automated data refresh.
+
+**Highlights:**
+- Three-page interactive Power BI dashboard
+- Nine sales KPIs and trend analysis
+- Consistent KPI definitions for self-service reporting
+
+## 💼 Professional Experience Highlights
+
+**Data Analyst Intern — Smatched**
+- Analysed approximately 20,000 user records to identify churn drivers and at-risk segments.
+- Developed Power BI dashboards for churn, retention, and finance KPIs.
+- Standardised approximately 10 KPIs and automated reporting workflows.
+
+**Data Engineer Intern — Infinityve**
+- Built data pipelines integrating approximately one million rows from three systems.
+- Developed Power BI dashboards and automated data collection.
+- Implemented data validation and monitoring, reducing verification time by approximately 10 hours per month.
+
+**Data Analyst Intern — NopCypher**
+- Built SQL and Python reporting pipelines processing approximately 20,000 monthly transaction rows.
+- Automated recurring reports and optimised SQL queries to reduce execution time.
+
+## 🎓 Education
+
+**MSc Data Analytics**  
+Berlin School of Business and Innovation, Germany
+
+**Bachelor of Business Administration**  
+Veer Narmad South Gujarat University, India
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Utsav Savani](https://www.linkedin.com/in/utsav-savani-b03997388/)
+- **GitHub:** [@utsavsavani2808](https://github.com/utsavsavani2808)
 
 ---
 
-I enjoy building dependable data pipelines, improving reporting workflows, and helping teams make better decisions with clear, trusted data.
+*Turning data into insights and ideas into practical solutions.*
